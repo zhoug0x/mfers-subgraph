@@ -1,13 +1,15 @@
 # mfers subgraph
 
-endpoint url:  
-`https://api.studio.thegraph.com/query/40851/mfers/v1`
+TODO: deploy v1 to mainnet
 
-mfers (subgraph) playground:
+playground:
 https://thegraph.com/studio/subgraph/mfers/playground
 
-mfers subgraph studio page:
+studio page:
 https://thegraph.com/studio/subgraph/mfers/
+
+testnet deploy:
+https://testnet.thegraph.com/explorer/subgraphs/6Jia1Jqc84CHcGCxcUbBnRLRDpNNmBdUFNrH56Q6YGKk
 
 the graph docs:
 https://thegraph.com/docs
